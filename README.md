@@ -1,7 +1,7 @@
 # Brainstation 3D Hackathon: TED_Talks_Analysis
 
 <p align="center">
- <img src="A1.jpg" width="300" height="300">
+ <img src="A1.jpg" width="500" height="300">
 </p> <br>
 
 ## Introduction 
@@ -19,18 +19,18 @@ Dataset link: https://www.kaggle.com/rounakbanik/ted-talks <br>
 Dataset Credit: Rounak Banik
 
 ## Team: Visionaries
-Data Science Team:
-Austin Yu
-Kaity Castellani
-Karla Muller
+Data Science Team: <br>
+Austin Yu <br>
+Kaity Castellani <br>
+Karla Muller <br>
 
-Web Dev Team:
-Brian Alves
-Derek So
-Alana
+Web Dev Team: <br>
+Brian Alves <br>
+Derek So <br>
+Alana <br>
 
-UX Design Team:
-Franka Mostert
-Paul Wang
+UX Design Team: <br>
+Franka Mostert <br>
+Paul Wang <br>
 
 LinkedIn Page: https://www.linkedin.com/feed/update/urn:li:activity:6643727980877099008/
