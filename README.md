@@ -34,3 +34,6 @@ Franka Mostert <br>
 Paul Wang <br>
 
 LinkedIn Page: https://www.linkedin.com/feed/update/urn:li:activity:6643727980877099008/
+
+## Completion Time
+* Within 8 hours
