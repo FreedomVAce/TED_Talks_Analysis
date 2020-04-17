@@ -1,7 +1,7 @@
 # Brainstation 3D Hackathon: TED_Talks_Analysis
 
 <p align="center">
- <img src="A1.jpg" width="500" height="300">
+ <img src="A1.jpg" width="700" height="300">
 </p> <br>
 
 ## Introduction 
